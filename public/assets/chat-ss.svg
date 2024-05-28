@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 440 338">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 5.34px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        font-family: DMSans-Light, 'DM Sans';
+      }
+
+      .cls-1, .cls-4, .cls-5 {
+        fill: #4746df;
+      }
+
+      .cls-2, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10 {
+        fill: #38384c;
+      }
+
+      .cls-11 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-6, .cls-8, .cls-10 {
+        font-family: DMSans-Medium, 'DM Sans';
+      }
+
+      .cls-6, .cls-9 {
+        font-size: 5px;
+      }
+
+      .cls-12 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-13 {
+        fill: #f89d51;
+      }
+
+      .cls-14 {
+        fill: #fff;
+      }
+
+      .cls-15 {
+        fill: #fec;
+      }
+
+      .cls-16 {
+        fill: #ffd2a9;
+      }
+
+      .cls-17 {
+        fill: #905af7;
+      }
+
+      .cls-18 {
+        fill: #ba8254;
+      }
+
+      .cls-19 {
+        fill: #ce96cd;
+      }
+
+      .cls-20 {
+        fill: #b2cdf9;
+      }
+
+      .cls-21 {
+        fill: #b29ef9;
+      }
+
+      .cls-22 {
+        fill: #d24a46;
+      }
+
+      .cls-23 {
+        fill: #d3dfba;
+      }
+
+      .cls-24 {
+        fill: #c5d1f7;
+      }
+
+      .cls-25 {
+        fill: #9ac0f7;
+      }
+
+      .cls-26 {
+        fill: #624a74;
+      }
+
+      .cls-27 {
+        fill: #73cdba;
+      }
+
+      .cls-28 {
+        fill: #7a4a46;
+      }
+
+      .cls-29 {
+        letter-spacing: 0em;
+      }
+
+      .cls-30 {
+        letter-spacing: 0em;
+      }
+
+      .cls-31 {
+        letter-spacing: 0em;
+      }
+
+      .cls-32 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-33 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-34 {
+        fill: #fcfdfe;
+      }
+
+      .cls-34, .cls-35 {
+        stroke: #cbcbcb;
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+
+      .cls-36 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-37 {
+        letter-spacing: .05em;
+      }
+
+      .cls-38 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-39 {
+        letter-spacing: 0em;
+      }
+
+      .cls-40 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-8 {
+        font-size: 7px;
+      }
+
+      .cls-41 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-42 {
+        fill: #f5f9fa;
+        filter: url(#drop-shadow-1);
+      }
+
+      .cls-43 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-44 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        font-family: DMSans-Regular, 'DM Sans';
+      }
+
+      .cls-45 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-46 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-47 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-10 {
+        font-size: 6px;
+      }
+
+      .cls-48 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-49 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-35 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #858591;
+        font-size: 4px;
+      }
+
+      .cls-5 {
+        opacity: .36;
+      }
+    </style>
+    <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="2"/>
+      <feGaussianBlur result="blur" stdDeviation="7"/>
+      <feFlood flood-color="#42383a" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="OBJECTS">
+    <g>
+      <rect class="cls-42" x="20.92" y="19.67" width="396.16" height="294.45" rx="5.7" ry="5.7"/>
+      <path class="cls-4" d="M26.62,19.67H411.38c3.15,0,5.7,2.55,5.7,5.7v14.24H20.92v-14.24c0-3.15,2.55-5.7,5.7-5.7Z"/>
+      <path class="cls-14" d="M365.87,32.45s-.68-.67-.68-1.66v-1.7c0-1.6-1.27-2.9-2.84-2.9s-2.84,1.3-2.84,2.9v1.7c0,.96-.67,1.65-.68,1.66l-.44,.44h7.93l-.46-.44Zm-6.33-.07c.23-.36,.49-.91,.49-1.58v-1.7c0-1.32,1.04-2.39,2.32-2.39s2.32,1.07,2.32,2.39v1.7c0,.68,.26,1.23,.48,1.58h-5.62Zm3.07-6.19h-.52v-.52h.52v.52Zm0,6.71h.52c0,.43-.35,.77-.77,.77s-.77-.35-.77-.77h.52c0,.14,.12,.26,.26,.26s.26-.12,.26-.26Z"/>
+      <path class="cls-14" d="M404.67,27.86l-4,4-4-4,.36-.36,3.64,3.64,3.64-3.64,.36,.36Z"/>
+      <path class="cls-14" d="M382.18,28.43c-.65,0-1.18,.53-1.18,1.18s.53,1.18,1.18,1.18,1.18-.53,1.18-1.18-.53-1.18-1.18-1.18Zm0,1.88c-.39,0-.71-.32-.71-.71s.32-.71,.71-.71,.71,.32,.71,.71-.32,.71-.71,.71Zm3.97-.25c.02-.15,.03-.3,.03-.46s-.01-.31-.03-.46l-1.22-.37c-.06-.19-.13-.37-.22-.54l.6-1.12c-.19-.24-.41-.46-.65-.65l-1.12,.6c-.17-.09-.35-.17-.54-.22l-.37-1.22c-.15-.02-.3-.03-.46-.03s-.31,.01-.46,.03l-.37,1.22c-.19,.06-.37,.13-.54,.22l-1.12-.6c-.24,.19-.46,.41-.65,.65l.6,1.12c-.09,.17-.17,.35-.22,.54l-1.22,.37c-.02,.15-.03,.3-.03,.46s.01,.31,.03,.46l1.22,.37c.06,.19,.13,.37,.22,.54l-.6,1.12c.19,.24,.41,.46,.65,.65l1.12-.6c.17,.09,.35,.17,.54,.22l.37,1.22c.15,.02,.3,.03,.46,.03s.31-.01,.46-.03l.37-1.22c.19-.06,.37-.13,.54-.22l1.12,.6c.24-.19,.46-.41,.65-.65l-.6-1.12c.09-.17,.17-.35,.22-.54l1.22-.37Zm-1.6-.01l-.07,.24c-.05,.16-.11,.31-.19,.45l-.12,.22,.12,.22,.45,.83s-.09,.1-.14,.14l-1.06-.57-.22,.12c-.14,.08-.29,.14-.45,.19l-.24,.07-.07,.24-.27,.91s-.07,0-.1,0-.07,0-.1,0l-.27-.91-.07-.24-.24-.07c-.16-.05-.31-.11-.45-.19l-.22-.12-1.06,.57s-.1-.09-.14-.14l.57-1.06-.12-.22c-.08-.14-.14-.29-.19-.45l-.07-.24-1.15-.35s0-.07,0-.1,0-.07,0-.1l1.15-.35,.07-.24c.05-.16,.11-.31,.19-.45l.12-.22-.57-1.06s.09-.1,.14-.14l1.06,.57,.22-.12c.14-.08,.29-.14,.45-.19l.24-.07,.07-.24,.27-.91s.07,0,.1,0,.07,0,.1,0l.27,.91,.07,.24,.24,.07c.16,.05,.31,.11,.45,.19l.22,.12,1.06-.57s.1,.09,.14,.14l-.45,.83-.12,.22,.12,.22c.08,.14,.14,.29,.19,.45l.07,.24,.24,.07,.91,.27s0,.07,0,.1,0,.07,0,.1l-1.15,.35Z"/>
+      <path class="cls-14" d="M344.5,33.33l-2.49-2.49c.47-.55,.76-1.26,.76-2.03,0-1.73-1.4-3.13-3.13-3.13-.84,0-1.62,.33-2.22,.92-.59,.59-.92,1.38-.92,2.21,0,1.73,1.4,3.13,3.13,3.13,.78,0,1.49-.29,2.04-.76l2.49,2.49,.34-.34Zm-4.87-1.88c-1.46,0-2.65-1.19-2.65-2.65,0-.71,.28-1.37,.78-1.87,.5-.5,1.17-.78,1.87-.78,1.46,0,2.65,1.19,2.65,2.65s-1.19,2.65-2.65,2.65Z"/>
+      <path class="cls-14" d="M38.71,32.86h-1.45v-2.89h-2.41v2.89h-1.45v-4.34h-.48v4.82h6.27v-4.82h-.48v4.34Zm-3.38,0v-2.41h1.45v2.41h-1.45Zm4.72-4.59l-.29,.39-3.71-2.73-3.71,2.73-.29-.39,4-2.94,4,2.94Z"/>
+      <line class="cls-35" x1="152.97" y1="49" x2="152.97" y2="302.5"/>
+      <line class="cls-35" x1="285.03" y1="49" x2="285.03" y2="302.5"/>
+      <path class="cls-21" d="M165.7,274.85h106.6c.94,0,1.7,.76,1.7,1.7v37.57h-110v-37.57c0-.94,.76-1.7,1.7-1.7Z"/>
+      <g>
+        <rect class="cls-34" x="164" y="49" width="110" height="217.46" rx="1.76" ry="1.76"/>
+        <path class="cls-7" d="M188.75,136.04v-5.04h-3.03v5.04l1.51-1.03,1.52,1.03Zm-2.53-.94v-3.59h2.03v3.6l-1.02-.69-1.01,.69Zm5.51-3.59v7.5h-7.5v-7.5h.99v.5h-.49v6.5h6.5v-6.5h-2v-.5h2.5Z"/>
+        <path class="cls-20" d="M165.7,49h106.6c.94,0,1.7,.76,1.7,1.7V126.33h-110V50.7c0-.94,.76-1.7,1.7-1.7Z"/>
+        <path class="cls-7" d="M176.32,131c-.88,0-1.64,.5-2.02,1.23-.38-.73-1.14-1.23-2.02-1.23-1.25,0-2.27,1.02-2.27,2.27,0,.17,.02,.35,.08,.57l.06,.18c.72,2.2,3.87,4.75,4.01,4.86l.16,.13,.16-.13c.14-.11,3.5-2.83,4.01-4.86l.06-.19c.05-.2,.07-.38,.07-.55,0-1.25-1.02-2.27-2.27-2.27Zm1.71,2.69l-.06,.19c-.41,1.64-3.01,3.91-3.68,4.47-.65-.55-3.09-2.7-3.68-4.49l-.05-.16c-.04-.16-.06-.3-.06-.43,0-.98,.79-1.77,1.77-1.77s1.77,.79,1.77,1.77v.13h.51v-.13c0-.98,.79-1.77,1.77-1.77s1.77,.79,1.77,1.77c0,.13-.02,.27-.06,.42Z"/>
+        <text class="cls-9" transform="translate(170 149.6)"><tspan class="cls-12" x="0" y="0">L</tspan><tspan x="2.53" y="0">o</tspan><tspan class="cls-47" x="5.49" y="0">r</tspan><tspan x="7.25" y="0">em ipsum dolor sit am</tspan><tspan class="cls-49" x="58.9" y="0">e</tspan><tspan class="cls-37" x="61.66" y="0">t</tspan><tspan x="63.88" y="0">, conse</tspan><tspan class="cls-33" x="80.16" y="0">ct</tspan><tspan class="cls-49" x="84.84" y="0">e</tspan><tspan x="87.6" y="0">tuer </tspan><tspan x="0" y="8">adipiscing eli</tspan><tspan class="cls-37" x="30.1" y="8">t</tspan><tspan x="32.32" y="8">, sed diam nonum</tspan><tspan class="cls-43" x="73.24" y="8">m</tspan><tspan x="77.62" y="8">y nibh </tspan><tspan x="0" y="16">euismod tincidunt ut lao</tspan><tspan class="cls-11" x="56.5" y="16">r</tspan><tspan x="58.26" y="16">e</tspan><tspan class="cls-49" x="61.1" y="16">e</tspan><tspan x="63.85" y="16">t dolo</tspan><tspan class="cls-46" x="77.32" y="16">r</tspan><tspan x="79.08" y="16">e </tspan><tspan x="0" y="24">magna aliquam er</tspan><tspan class="cls-40" x="41.11" y="24">a</tspan><tspan x="43.76" y="24">t </tspan><tspan class="cls-36" x="47.05" y="24">v</tspan><tspan class="cls-31" x="49.56" y="24">olutp</tspan><tspan class="cls-33" x="61.6" y="24">a</tspan><tspan x="64.25" y="24">t. Ut wisi enim </tspan></text>
+        <text class="cls-9" transform="translate(170 208.49)"><tspan class="cls-12" x="0" y="0">L</tspan><tspan x="2.53" y="0">o</tspan><tspan class="cls-47" x="5.49" y="0">r</tspan><tspan x="7.25" y="0">em ipsum dolor sit am</tspan><tspan class="cls-49" x="58.9" y="0">e</tspan><tspan class="cls-37" x="61.66" y="0">t</tspan><tspan x="63.88" y="0">, conse</tspan><tspan class="cls-33" x="80.16" y="0">ct</tspan><tspan class="cls-49" x="84.84" y="0">e</tspan><tspan x="87.6" y="0">tuer </tspan><tspan x="0" y="8">adipiscing eli</tspan><tspan class="cls-37" x="30.1" y="8">t</tspan><tspan x="32.32" y="8">, sed diam nonum</tspan><tspan class="cls-43" x="73.24" y="8">m</tspan><tspan x="77.62" y="8">y nibh.</tspan></text>
+        <line class="cls-35" x1="169.51" y1="222" x2="267.5" y2="222"/>
+        <line class="cls-35" x1="169.51" y1="181.95" x2="267.5" y2="181.95"/>
+        <g>
+          <circle class="cls-25" cx="176.33" cy="193.89" r="6"/>
+          <path class="cls-7" d="M176.33,194.42c-2.19,0-3.96,1.77-3.96,3.96,0,0,0,.01,0,.02,1.06,.93,2.44,1.5,3.96,1.5s2.9-.57,3.96-1.5c0,0,0-.01,0-.02,0-2.19-1.77-3.96-3.96-3.96Z"/>
+          <path class="cls-16" d="M178.75,193.71c0,1.33-1.08,2.42-2.42,2.42s-2.42-1.08-2.42-2.42,1.08-2.42,2.42-2.42,2.42,1.08,2.42,2.42Z"/>
+        </g>
+        <g>
+          <circle class="cls-17" cx="176.33" cy="233.59" r="6"/>
+          <path class="cls-28" d="M172.65,236.62h7.36s.86-6.5-3.7-6.5c-4.32,0-3.67,6.5-3.67,6.5Z"/>
+          <path class="cls-19" d="M176.33,234.12c-2.19,0-3.96,1.77-3.96,3.96,0,0,0,.01,0,.02,1.06,.93,2.44,1.5,3.96,1.5s2.9-.57,3.96-1.5c0,0,0-.01,0-.02,0-2.19-1.77-3.96-3.96-3.96Z"/>
+          <path class="cls-16" d="M178.75,233.41c0,1.33-1.08,2.42-2.42,2.42s-2.42-1.08-2.42-2.42,1.08-2.42,2.42-2.42,2.42,1.08,2.42,2.42Z"/>
+          <path class="cls-28" d="M173.62,232.92h5.42s0-2.5-2.5-2.5-2.92,2.5-2.92,2.5Z"/>
+        </g>
+        <text class="cls-6" transform="translate(186.25 196)"><tspan x="0" y="0">Nickname</tspan></text>
+        <text class="cls-9" transform="translate(170 247.91)"><tspan class="cls-12" x="0" y="0">L</tspan><tspan x="2.53" y="0">o</tspan><tspan class="cls-47" x="5.49" y="0">r</tspan><tspan x="7.25" y="0">em ipsum dolor sit am</tspan><tspan class="cls-49" x="58.9" y="0">e</tspan><tspan class="cls-37" x="61.66" y="0">t</tspan><tspan x="63.88" y="0">, conse</tspan><tspan class="cls-33" x="80.16" y="0">ct</tspan><tspan class="cls-49" x="84.84" y="0">e</tspan><tspan x="87.6" y="0">tuer </tspan><tspan x="0" y="8">adipiscing eli</tspan><tspan class="cls-37" x="30.1" y="8">t</tspan><tspan x="32.32" y="8">, sed diam nonum</tspan><tspan class="cls-43" x="73.24" y="8">m</tspan><tspan x="77.62" y="8">y nibh.</tspan></text>
+        <text class="cls-6" transform="translate(186.25 235.42)"><tspan x="0" y="0">Nickname</tspan></text>
+        <path class="cls-5" d="M164,79.67s36-1.67,65.25,14.33,44.75,15.75,44.75,15.75v16.58h-110v-46.67Z"/>
+        <path class="cls-4" d="M216,49c0,13.81,11.19,25,25,25s25-11.19,25-25h-50Z"/>
+      </g>
+      <g>
+        <rect class="cls-34" x="32.33" y="49" width="110" height="167.36" rx="1.76" ry="1.76"/>
+        <g>
+          <circle class="cls-13" cx="87.33" cy="94.03" r="30.01"/>
+          <path class="cls-4" d="M87.33,96.65c-10.93,0-19.8,8.86-19.8,19.8,0,.04,.01,.07,.01,.11,5.28,4.65,12.2,7.49,19.78,7.49s14.5-2.84,19.79-7.49c0-.04,.01-.07,.01-.11,0-10.93-8.86-19.8-19.8-19.8Z"/>
+          <circle class="cls-16" cx="87.33" cy="93.11" r="12.09"/>
+        </g>
+        <text class="cls-8" transform="translate(67.35 141.35)"><tspan x="0" y="0">@Nickname</tspan></text>
+        <text class="cls-3" transform="translate(68.79 226.59)"><tspan x="0" y="0">© Co</tspan><tspan class="cls-45" x="9.5" y="0">p</tspan><tspan class="cls-44" x="11.82" y="0">yright </tspan><tspan class="cls-38" x="23.46" y="0">2</tspan><tspan class="cls-44" x="25.73" y="0">018</tspan></text>
+        <path class="cls-7" d="M105.57,196.76c-1.93,0-3.5,1.57-3.5,3.5s1.57,3.5,3.5,3.5,3.5-1.57,3.5-3.5-1.57-3.5-3.5-3.5Zm3.09,3.55c-.85-.19-1.6-.17-2.25-.04-.1-.26-.22-.52-.35-.79,.69-.27,1.36-.65,1.87-1.21,.46,.54,.73,1.23,.73,1.99,0,.02,0,.03,0,.05Zm-1.02-2.34c-.48,.52-1.11,.88-1.77,1.13-.31-.6-.7-1.22-1.16-1.81,.27-.08,.56-.12,.86-.12,.8,0,1.52,.31,2.07,.8Zm-3.33-.53c.47,.58,.85,1.19,1.16,1.79-1.22,.38-2.46,.42-2.93,.42,.2-.99,.87-1.81,1.76-2.22Zm-1.82,2.81c0-.06,0-.12,0-.18,.03,0,.06,0,.09,0,.54,0,1.81-.05,3.08-.46,.12,.26,.24,.51,.34,.76-1.48,.45-2.36,1.53-2.68,1.99-.52-.55-.83-1.29-.83-2.1Zm1.14,2.39c.25-.37,1.07-1.45,2.53-1.88,.4,1.07,.58,1.95,.64,2.33-.38,.16-.79,.25-1.22,.25-.74,0-1.42-.26-1.95-.7Zm3.56,.24c-.08-.44-.26-1.25-.62-2.23,.59-.12,1.28-.12,2.06,.06-.14,.92-.68,1.7-1.44,2.17Z"/>
+        <path class="cls-7" d="M92.02,197.57c-.29,.13-.61,.22-.94,.25,.34-.2,.6-.52,.72-.9-.31,.19-.67,.32-1.04,.4-.3-.32-.73-.52-1.2-.52-.91,0-1.64,.74-1.64,1.64,0,.13,.02,.25,.04,.38-1.36-.07-2.57-.72-3.38-1.72-.14,.24-.22,.52-.22,.83,0,.57,.29,1.07,.73,1.37-.27-.01-.52-.09-.74-.21v.02c0,.8,.56,1.46,1.31,1.61-.14,.04-.28,.06-.43,.06-.11,0-.21,0-.31-.03,.21,.65,.81,1.12,1.53,1.14-.56,.44-1.27,.7-2.04,.7-.14,0-.26,0-.4-.02,.73,.47,1.59,.74,2.52,.74,3.01,0,4.66-2.5,4.66-4.66,0-.07,0-.14,0-.21,.32-.23,.6-.52,.82-.85Zm-1.29,1.06c0,1.74-1.3,4.19-4.19,4.19-.23,0-.46-.02-.69-.06,.32-.13,.61-.3,.89-.52,.16-.12,.22-.33,.16-.52-.06-.19-.24-.32-.44-.32-.26,0-.5-.09-.69-.24,0,0,0,0,0,0,.21-.05,.36-.25,.35-.47,0-.22-.16-.41-.38-.45-.31-.06-.57-.24-.73-.49,.02,0,.03,0,.05,0h.02c.2,0,.38-.13,.45-.33,.06-.2-.01-.42-.19-.54-.3-.2-.48-.52-.52-.87,.86,.74,1.95,1.19,3.1,1.25,0,0,.02,0,.02,0,.14,0,.27-.06,.36-.16,.1-.11,.13-.26,.1-.4-.02-.1-.03-.19-.03-.28,0-.64,.52-1.17,1.17-1.17,.33,0,.63,.13,.85,.37,.05,.06,.12,.1,.2,.13,0,.07,0,.14,.02,.21,.03,.09,.08,.17,.16,.22-.04,.08-.06,.17-.06,.26,0,.06,0,.12,0,.18Z"/>
+        <path class="cls-7" d="M70.95,196.55h-3.71c-.91,0-1.65,.74-1.65,1.65v3.71c0,.91,.74,1.65,1.65,1.65h3.71c.91,0,1.65-.74,1.65-1.65v-3.71c0-.91-.74-1.65-1.65-1.65Zm1.24,5.35c0,.68-.55,1.24-1.24,1.24h-3.71c-.68,0-1.24-.55-1.24-1.24v-2.47h1.32c-.12,.25-.19,.53-.19,.82,0,1.08,.88,1.96,1.96,1.96s1.96-.88,1.96-1.96c0-.3-.07-.57-.19-.82h1.32v2.47Zm-1.54-1.65c0,.85-.69,1.54-1.54,1.54s-1.54-.69-1.54-1.54,.69-1.54,1.54-1.54,1.54,.69,1.54,1.54Zm-.04-1.24c-.36-.44-.9-.72-1.5-.72s-1.14,.28-1.5,.72h-1.58v-.82c0-.68,.55-1.24,1.24-1.24h3.71c.68,0,1.24,.55,1.24,1.24v.82h-1.58Zm.95-1.35v.53c0,.12-.1,.22-.22,.22h-.56c-.12,0-.22-.1-.22-.22v-.53c0-.12,.1-.22,.22-.22h.56c.12,0,.22,.1,.22,.22Z"/>
+        <text class="cls-9" transform="translate(38.78 157.06)"><tspan class="cls-12" x="0" y="0">L</tspan><tspan x="2.53" y="0">o</tspan><tspan class="cls-47" x="5.49" y="0">r</tspan><tspan x="7.25" y="0">em ipsum dolor sit am</tspan><tspan class="cls-49" x="58.9" y="0">e</tspan><tspan class="cls-37" x="61.66" y="0">t</tspan><tspan x="63.88" y="0">, conse</tspan><tspan class="cls-33" x="80.16" y="0">ct</tspan><tspan class="cls-49" x="84.84" y="0">e</tspan><tspan x="87.6" y="0">tuer </tspan><tspan x="2.65" y="8">adipiscing eli</tspan><tspan class="cls-37" x="32.75" y="8">t</tspan><tspan x="34.97" y="8">, sed diam nonum</tspan><tspan class="cls-43" x="75.89" y="8">m</tspan><tspan x="80.27" y="8">y nibh </tspan><tspan x="7.6" y="16">euismod tincidunt ut lao</tspan><tspan class="cls-11" x="64.1" y="16">r</tspan><tspan x="65.86" y="16">e</tspan><tspan class="cls-49" x="68.7" y="16">e</tspan><tspan x="71.45" y="16">t dolo</tspan><tspan class="cls-46" x="84.92" y="16">r</tspan><tspan x="86.67" y="16">e </tspan><tspan x=".29" y="24">magna aliquam er</tspan><tspan class="cls-40" x="41.41" y="24">a</tspan><tspan x="44.06" y="24">t </tspan><tspan class="cls-36" x="47.35" y="24">v</tspan><tspan class="cls-31" x="49.86" y="24">olutp</tspan><tspan class="cls-33" x="61.9" y="24">a</tspan><tspan x="64.55" y="24">t. Ut wisi enim </tspan></text>
+      </g>
+      <g>
+        <rect class="cls-34" x="295.98" y="49" width="110" height="142.29" rx="1.76" ry="1.76"/>
+        <line class="cls-35" x1="301.98" y1="91" x2="399.98" y2="91"/>
+        <line class="cls-35" x1="301.98" y1="65.5" x2="399.98" y2="65.5"/>
+        <line class="cls-35" x1="301.98" y1="115.33" x2="399.98" y2="115.33"/>
+        <g>
+          <circle class="cls-13" cx="308.81" cy="78.17" r="6"/>
+          <path class="cls-7" d="M308.81,78.7c-2.19,0-3.96,1.77-3.96,3.96,0,0,0,.01,0,.02,1.06,.93,2.44,1.5,3.96,1.5s2.9-.57,3.96-1.5c0,0,0-.01,0-.02,0-2.19-1.77-3.96-3.96-3.96Z"/>
+          <path class="cls-16" d="M311.23,77.99c0,1.33-1.08,2.42-2.42,2.42s-2.42-1.08-2.42-2.42,1.08-2.42,2.42-2.42,2.42,1.08,2.42,2.42Z"/>
+        </g>
+        <g>
+          <circle class="cls-17" cx="308.81" cy="102.87" r="6"/>
+          <path class="cls-28" d="M305.13,105.9h7.36s.86-6.5-3.7-6.5c-4.32,0-3.67,6.5-3.67,6.5Z"/>
+          <path class="cls-19" d="M308.81,103.4c-2.19,0-3.96,1.77-3.96,3.96,0,0,0,.01,0,.02,1.06,.93,2.44,1.5,3.96,1.5s2.9-.57,3.96-1.5c0,0,0-.01,0-.02,0-2.19-1.77-3.96-3.96-3.96Z"/>
+          <path class="cls-16" d="M311.23,102.69c0,1.33-1.08,2.42-2.42,2.42s-2.42-1.08-2.42-2.42,1.08-2.42,2.42-2.42,2.42,1.08,2.42,2.42Z"/>
+          <path class="cls-28" d="M306.1,102.2h5.42s0-2.5-2.5-2.5-2.92,2.5-2.92,2.5Z"/>
+        </g>
+        <text class="cls-6" transform="translate(318.73 80.28)"><tspan x="0" y="0">Nickname</tspan></text>
+        <text class="cls-10" transform="translate(301.98 60.61)"><tspan x="0" y="0">Conta</tspan><tspan class="cls-41" x="17.23" y="0">c</tspan><tspan class="cls-39" x="20.66" y="0">t</tspan></text>
+        <text class="cls-6" transform="translate(318.73 104.7)"><tspan x="0" y="0">Nickname</tspan></text>
+        <line class="cls-35" x1="301.98" y1="140.93" x2="399.98" y2="140.93"/>
+        <g>
+          <circle class="cls-25" cx="308.81" cy="128.1" r="6"/>
+          <path class="cls-7" d="M308.81,128.63c-2.19,0-3.96,1.77-3.96,3.96,0,0,0,.01,0,.02,1.06,.93,2.44,1.5,3.96,1.5s2.9-.57,3.96-1.5c0,0,0-.01,0-.02,0-2.19-1.77-3.96-3.96-3.96Z"/>
+          <path class="cls-16" d="M311.23,127.92c0,1.33-1.08,2.42-2.42,2.42s-2.42-1.08-2.42-2.42,1.08-2.42,2.42-2.42,2.42,1.08,2.42,2.42Z"/>
+        </g>
+        <g>
+          <circle class="cls-23" cx="308.81" cy="152.8" r="6"/>
+          <path class="cls-22" d="M305.13,155.84h7.36s.86-6.5-3.7-6.5c-4.32,0-3.67,6.5-3.67,6.5Z"/>
+          <path class="cls-26" d="M308.81,153.33c-2.19,0-3.96,1.77-3.96,3.96,0,0,0,.01,0,.02,1.06,.93,2.44,1.5,3.96,1.5s2.9-.57,3.96-1.5c0,0,0-.01,0-.02,0-2.19-1.77-3.96-3.96-3.96Z"/>
+          <path class="cls-15" d="M311.23,152.62c0,1.33-1.08,2.42-2.42,2.42s-2.42-1.08-2.42-2.42,1.08-2.42,2.42-2.42,2.42,1.08,2.42,2.42Z"/>
+          <path class="cls-22" d="M306.1,152.13h5.42s0-2.5-2.5-2.5-2.92,2.5-2.92,2.5Z"/>
+        </g>
+        <text class="cls-6" transform="translate(318.73 130.21)"><tspan x="0" y="0">Nickname</tspan></text>
+        <line class="cls-35" x1="301.98" y1="165.69" x2="399.98" y2="165.69"/>
+        <g>
+          <circle class="cls-24" cx="308.81" cy="178.46" r="6"/>
+          <path class="cls-27" d="M308.81,178.98c-2.19,0-3.96,1.77-3.96,3.96,0,0,0,.01,0,.02,1.06,.93,2.44,1.5,3.96,1.5s2.9-.57,3.96-1.5c0,0,0-.01,0-.02,0-2.19-1.77-3.96-3.96-3.96Z"/>
+          <path class="cls-18" d="M311.23,178.27c0,1.33-1.08,2.42-2.42,2.42s-2.42-1.08-2.42-2.42,1.08-2.42,2.42-2.42,2.42,1.08,2.42,2.42Z"/>
+        </g>
+        <text class="cls-6" transform="translate(318.73 180.56)"><tspan x="0" y="0">Nickname</tspan></text>
+        <text class="cls-6" transform="translate(318.73 154.63)"><tspan x="0" y="0">Nickname</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-34" x="295.98" y="198.68" width="110" height="95.8" rx="1.76" ry="1.76"/>
+        <line class="cls-35" x1="301.98" y1="215.18" x2="399.98" y2="215.18"/>
+        <text class="cls-10" transform="translate(301.98 210.3)"><tspan x="0" y="0">Calendar</tspan></text>
+        <g>
+          <text class="cls-1" transform="translate(306.48 229.15) scale(1.05 1)"><tspan x="0" y="0">S</tspan></text>
+          <text class="cls-1" transform="translate(320.11 229.15)"><tspan x="0" y="0">M</tspan></text>
+          <text class="cls-1" transform="translate(335.19 229.15)"><tspan x="0" y="0">T</tspan></text>
+          <text class="cls-1" transform="translate(348.44 229.15)"><tspan x="0" y="0">W</tspan></text>
+          <text class="cls-1" transform="translate(363.85 229.15)"><tspan x="0" y="0">T</tspan></text>
+          <text class="cls-1" transform="translate(378.23 229.15)"><tspan x="0" y="0">F</tspan></text>
+          <text class="cls-1" transform="translate(392.44 229.15)"><tspan x="0" y="0">S</tspan></text>
+          <text class="cls-2"><tspan x="349.37" y="250.51">5</tspan><tspan x="348.64" y="259.06">12</tspan><tspan x="348.51" y="267.61">19</tspan><tspan x="347.77" y="276.16">26</tspan></text>
+          <text class="cls-2"><tspan x="363.64" y="250.51">6</tspan><tspan x="362.95" y="259.06">13</tspan><tspan class="cls-32" x="362" y="267.61">2</tspan><tspan x="365.02" y="267.61">0</tspan><tspan class="cls-48" x="362.4" y="276.16">2</tspan><tspan x="365.38" y="276.16">7</tspan></text>
+          <text class="cls-2"><tspan x="378.22" y="250.51">7</tspan><tspan x="377.26" y="259.06">14</tspan><tspan x="377.3" y="267.61">21</tspan><tspan class="cls-48" x="376.55" y="276.16">2</tspan><tspan class="cls-29" x="379.53" y="276.16">8</tspan></text>
+          <text class="cls-1" transform="translate(393.18 241.96)"><tspan x="0" y="0">1</tspan><tspan x="-.81" y="8.55">8</tspan><tspan x="-1.63" y="17.1">15</tspan><tspan x="-2.28" y="25.65">22</tspan><tspan class="cls-32" x="-2.39" y="34.2">2</tspan><tspan class="cls-30" x=".64" y="34.2">9</tspan></text>
+          <text class="cls-1"><tspan x="306.46" y="250.51">2</tspan><tspan x="306.32" y="259.06">9</tspan><tspan x="305.52" y="267.61">16</tspan><tspan x="304.89" y="276.16">23</tspan><tspan x="304.62" y="284.71">30</tspan></text>
+          <text class="cls-2"><tspan x="320.77" y="250.51">3</tspan><tspan x="319.71" y="259.06">10</tspan><tspan x="320.1" y="267.61">17</tspan><tspan class="cls-48" x="319.25" y="276.16">2</tspan><tspan x="322.24" y="276.16">4</tspan></text>
+          <text class="cls-2"><tspan x="335.07" y="250.51">4</tspan><tspan x="335.05" y="259.06">11</tspan><tspan x="334.24" y="267.61">18</tspan><tspan x="333.49" y="276.16">25</tspan></text>
+        </g>
+        <path class="cls-7" d="M396.01,205.98l2,2-2,2-.18-.18,1.82-1.82-1.82-1.82,.18-.18Z"/>
+        <path class="cls-7" d="M390.64,206.16l-1.82,1.82,1.82,1.82-.18,.18-2-2,2-2,.18,.18Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
